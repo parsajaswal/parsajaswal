@@ -1,17 +1,28 @@
 <h1 align="center">Hi 👋, I'm Parsa</h1>
 
 <p align="center">
-  👋 Hello! I'm Parsa, a passionate and dedicated software engineer with a knack for developing efficient and innovative software solutions. I am proficient in various programming languages, including Python and Java.
+  Welcome to my GitHub profile! I'm a passionate software engineer focused on crafting efficient and innovative solutions. With expertise in Python and Java, I build impactful applications that solve real-world problems.
 </p>
 
-- 🌱 I’m currently learning **Advanced Python**
+---
+
+## 🌱 Currently Learning
+
+- Advanced Python
+
+---
 
 ## 🎓 Education
 
-- Currently pursuing a Bachelor's degree in Computer Science with a specialization in AI & ML from Rayat and Bahra University, Mohali.
-- Completed schooling and higher education at DAV Senior Secondary School Una.
+- **Bachelor's Degree in Computer Science (AI & ML Specialization)**
+  - Rayat and Bahra University, Mohali
 
-<h3 align="left">Connect with me:</h3>
+- **Schooling and Higher Education**
+  - DAV Senior Secondary School, Una
+
+---
+
+<h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
   <a href="https://twitter.com/parsajaswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parsajaswal" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/parsa-jaswal-8a94b6264/" target="blank">
@@ -22,7 +33,9 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -80,16 +93,20 @@
   </a>
 </p>
 
-## 🌱 Interests and Hobbies
+---
 
-- Apart from coding, I enjoy traveling and photography.
+## 🌟 Interests and Hobbies
+
+- Beyond the screen, I have a passion for traveling and capturing moments through photography. These experiences fuel my creativity and problem-solving skills in software development.
+
+---
 
 ## 🚀 Goals
 
-As a software developer, my primary goal is to deliver high-quality, efficient, and scalable software solutions that meet client and business needs. I strive to write clean and maintainable code, optimize performance, and design systems that can grow with the project. Additionally, I am committed to continuous learning and effective collaboration with my team to achieve the best possible results.
+- As a software developer, my primary goal is to deliver high-quality, efficient, and scalable software solutions that meet client and business needs. I strive to write clean and maintainable code, optimize performance, and design systems that can grow with the project. Additionally, I am committed to continuous learning and effective collaboration with my team to achieve the best possible results.
 
-## 📫 Contact
+---
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/parsa-jaswal-8a94b6264/) or via email at [pparsa0810@gmail.com](mailto:pparsa0810@gmail.com). I'm always open to discussing new projects, collaborations, or opportunities.
-.
+## 📫 Get in Touch
 
+- I’m always excited to connect with like-minded professionals and explore new opportunities. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/parsa-jaswal-8a94b6264/) or via email at [pparsa0810@gmail.com](mailto:pparsa0810@gmail.com). Let's collaborate and make great things happen!
